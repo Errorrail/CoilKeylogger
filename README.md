@@ -7,7 +7,6 @@
 
 
 > # Features:
-<h3 align=center>Coil Features!</h3>
 
 ```
 - Can send keys to discord or telegram
