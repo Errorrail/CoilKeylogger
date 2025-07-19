@@ -23,7 +23,7 @@
 ```
 python -m pip install -r requirements.txt
 ```
-<sup><sup>That didnt work? Try: ```python3 -m pip install -r requirements.txt``` OR try ```pip install -r requirements.txt```</sup></sup>
+<sup>That didnt work? Try: ```python3 -m pip install -r requirements.txt``` OR try ```pip install -r requirements.txt```</sup>
 
 3. Once you do that, run Coil.exe
 
