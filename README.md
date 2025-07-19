@@ -28,7 +28,7 @@ python -m pip install -r requirements.txt
 
 3. Once you do that, run Coil.exe
 
-
+- NOTE: Make sure to disable your anti-virus!
 -----------------------------------------------------------------------------------------
 
-### I, Errorrail, do not support the use of this software to steal people's information or to do other illegal activities
+**I, Errorrail, do not support the use of this software to steal people's information or to do other illegal activities**
