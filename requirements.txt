@@ -1,0 +1,4 @@
+Pillow
+pynput
+requests
+pyinstaller
