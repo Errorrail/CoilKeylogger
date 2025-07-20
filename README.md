@@ -25,8 +25,8 @@ python -m pip install -r requirements.txt
 ```
 <sup>That didnt work? Try: ```python3 -m pip install -r requirements.txt``` OR try ```pip install -r requirements.txt```</sup>
 
-3. Once you do that, run Coil.exe
-
+3. Once you do that, run ~~Coil.exe~~ Builder.py <sup>(I have not been able to package the python file yet :/)<sup/>
+   
 - NOTE: Make sure to disable your anti-virus!
 -----------------------------------------------------------------------------------------
 
